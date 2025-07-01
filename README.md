@@ -2,10 +2,13 @@
 
 **Description:  ** A swerve drivetrain completely 3D printed.
 
-**Motivation for this project:** Wanted to make something similar to FRC swerve. I want to learn to program it.  
-Full CAD: https://a360.co/44cCmrA  ## Pictures:
+**Motivation for this project:** I wanted to make something similar to FRC swerve. I want to learn to program it.  
+
+Full CAD: https://a360.co/44cCmrA  
+
+## Pictures:
 ![Render](Images/render.png)
-  Wiring Diagram: 
+   
 ![Schematic](Images/Schematic/good_schematic.png)
 
 ## BOM:
@@ -28,8 +31,8 @@ Purchase Items
 
 | Item           | What the Item Is For in Your Project | Source  | Quantity | URL |
 |----------------|--------------------------------------|---------|----------|-----|
-| Lipo Battery    | Power Robot                         | Amazon  | —        | —   |
-| L293D           | Motor Driver                        | Amazon  | —        | —   |
+| Lipo Battery    | Power Robot                         | Amazon  | 1        | —   |
+| L293D           | Motor Driver                        | Amazon  | 4        | —   |
 | M3 - 8mm Bolts  | —                                   | Aliexpress | 1    | [Link](https://www.aliexpress.com/item/32810872544.html) |
 | M4 - 40mm Bolts | —                                   | Aliexpress | 1    | [Link](https://www.aliexpress.com/item/32810872544.html) |
 | M3 - 4mm Bolts  | —                                   | Aliexpress | 1    | [Link](https://www.aliexpress.com/item/32810872544.html) |
