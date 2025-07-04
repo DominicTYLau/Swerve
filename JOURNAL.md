@@ -62,8 +62,8 @@ Time Spent: 3 hours
 
 Next, I went to the programming phase. I started by doing research and found this article. This gave me a fundamental understanding. Essentially, I have to add vectors. Finally an application of vectors. https://dominik.win/blog/programming-swerve-drive/
 
-![program_1](Images/Ideas/program_1.png)
-![program_2](Images/Ideas/program_2.png)
+![program_1](Images/Ideas/program_1.jpeg)
+![program_2](Images/Ideas/program_2.jpeg)
 
 Time Spent: 2 hours
 
