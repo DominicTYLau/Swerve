@@ -21,8 +21,8 @@ Purchase Items
 | Bluetooth Dongle          | Connect game controller to control robot                           | Amazon      | 2.77             | 1        | 2.77               | [Link](https://www.aliexpress.com/item/1005007299146273.html) |
 | USB Host Shield           | Connect USB to Arduino                                             | Aliexpress  | 4.34             | 1        | 4.34               | [Link](https://www.aliexpress.com/item/32817563853.html) |
 | IC Socket                 | Place for L293D to be placed so they can be reusable               | Aliexpress  | 2.92             | 1        | 2.92               | [Link](https://www.aliexpress.com/item/32863286734.html) |
-| M4 - 45 Hex Head Bolts    | —                                                                   | Aliexpress  | 2.81             | 1        | 2.81               | [Link](https://www.aliexpress.com/item/32968601031.html) |
-| Bearings                  | —                                                                   | Aliexpress  | 13.29            | 2        | 26.58              | [Link](https://www.aliexpress.com/item/1005007420073930.html) |
+| M4 - 45 Hex Head Bolts    | Transfer in power (check CAD)                                                                   | Aliexpress  | 2.81             | 1        | 2.81               | [Link](https://www.aliexpress.com/item/32968601031.html) |
+| Bearings                  | For rotation of each module                                                                   | Aliexpress  | 13.29            | 2        | 26.58              | [Link](https://www.aliexpress.com/item/1005007420073930.html) |
 | Arduino Mega              | Need more ports                                                    | Amazon      | 23.10            | 1        | 23.10              | [Link](https://www.amazon.ca/dp/B01H4ZLZLQ) |
 
 **Total:** $149.96 USD
