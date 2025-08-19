@@ -5,7 +5,7 @@ description: "A swerve drivetrain that is 3D printed"
 created_at: "2024-06-23"
 ---
 
-Time Spent: 20 hours
+Time Spent: 25 hours
 
 ## June 23, 2025
 
@@ -81,12 +81,40 @@ https://maker.pro/arduino/projects/how-to-control-an-arduino-robot-with-a-ps4-bl
 
 Time Spent: 5 hours
 
-
 ## Jun 21, 2025
 
 I finalized the BOM and wrote the README.md
 
 Time Spent: 1 hour 
 
+---
+
+# Build
+
+## Aug 9, 2025
+
+I got most of the parts that I ordered so I can start 3D printing. I started by printing small parts to test the tolerance for each part. It took many tries to get it perfect.
+
+![top](Images/Build/top_motor.png)
+
+Time Spent: 2 hours
+
+## Aug 10, 2025
+
+I continued to print the base and drivetrain. I then assembled the parts that was ready.
+
+![bottom](Images/Build/bottom.png)
+
+Time Spent: 2 hours
+
+## Aug 11, 2025
+
+I continued to print the base and drivetrain. I assembled everything and it looks amazing.
+
+![base_1](Images/Build/base_1.png)
+![base_2](Images/Build/base_2.png)
+![base_3](Images/Build/base_3.png)
+
+Time Spent: 1 hour
 
 Please note that the photos were taken after I completed the work, and the journal was written afterward. Some parts of the project may have carried over across multiple days. The recorded times are not entirely accurate... I actually spent more time, but noted conservative estimates.
