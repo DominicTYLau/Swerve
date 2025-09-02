@@ -10,7 +10,7 @@ Full CAD: https://a360.co/44cCmrA  
 https://youtube.com/shorts/nQBawvd5q3g?feature=share
 
 ## Pictures:
-![Render](Images/build/swerve.jpeg)
+![Swerve](Images/Build/swerve.jpeg)
    
 ![Schematic](Images/Schematic/good_schematic.png)
 
