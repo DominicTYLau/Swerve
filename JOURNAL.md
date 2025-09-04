@@ -5,7 +5,11 @@ description: "A swerve drivetrain that is 3D printed"
 created_at: "2024-06-23"
 ---
 
-Time Spent: 25 hours
+Time Spent: 52 hours
+
+# Planning & Designing
+
+---
 
 ## June 23, 2025
 
@@ -15,7 +19,7 @@ New idea. Create a swerve drive that had odometry. I started by drawing differen
 ![drawings_2](Images/Ideas/drawings_2.jpeg)
 ![drawings_3](Images/Ideas/drawings_3.jpeg)
 
-Time Spent: Around 1 hour
+Time Spent: 1 hour
 
 ## June 24, 2025
 
@@ -118,3 +122,34 @@ I continued to print the base and drivetrain. I assembled everything and it look
 Time Spent: 1 hour
 
 Please note that the photos were taken after I completed the work, and the journal was written afterward. Some parts of the project may have carried over across multiple days. The recorded times are not entirely accurate... I actually spent more time, but noted conservative estimates.
+
+## Aug 18, 2025
+
+I received the Arduino Mega, but it did not when the code was uploaded. I tried to find if there was a mode for flashing but nothing worked. I ordered a new one off of amazon this time. Hopefully more reliable.
+ 
+Time Spent: 2 hours
+
+## Aug 25, 2025
+
+I received the new Arduino Mega and it worked great. Blink worked which was a relief. I soldered on some connectors for the motor pins so that they would fit the arduino pins and not come out. This took very long as there were 6 wires each for one motor, and I had to solder for 8 motors. I started wiring everything which was a pain.
+
+
+Time Spent: 7 hours
+
+## Aug 26, 2025
+
+I ran some simple code to see if it would work. However, some of the motors worked while others didn’t. I figured out that I wired it incorrectly. I realized that it was going to be a diagnose later because the pins on the arduino mega and the motor controllers were very far from each other. I rewired it so that it would be easier to trouble shoot.
+
+Time Spent: 5 hours 
+
+## Aug 27, 2025
+
+I ran some basic code to run all the motors which worked great. Then I started to control the angle of the steering. However, PID did not work as only a selected few ports on the mega had pwm output. I then resorted to bang bang control which worked good enough. I then combined everything and that was when it didn’t work. After testing once, some of the motors stopped working. I spent the next 2 hours testing each module. I found that the wires were a problem and they were unreliable. I made my own wires and rewired everything. I tested each mother and it worked.
+
+Time Spent: 8 hours
+
+## Aug 28, 2025
+
+Now that the motors were reliable, I could test my code once again and debug. It took some time, but overall it works really well.
+
+Time Spent: 4 hours
